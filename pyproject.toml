@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "promotebot"
+version = "0.1.0"
+description = "PromoteBot é um bot de usuário do Telegram projetado para engajamento e divulgação estratégica em fóruns do Telegram. Com monitoramento contínuo e respostas automáticas, este bot ajuda a amplificar mensagens, centralizar conteúdo e promover visibilidade em discussões."
+authors = ["cleiton <cleiton.leonel@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+setuptools = "^75.2.0"
+telethon = "^1.37.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
