@@ -1,6 +1,6 @@
 
 # 📢 PromoteBot
-![](/home/cleiton/Downloads/promote_bot.png)
+<img src="https://raw.githubusercontent.com/cleitonleonel/PromoteBot/master/promote_bot.png" alt="PromoteBot" width="250"/>
 
 PromoteBot é um bot de usuário do Telegram projetado para engajamento e divulgação estratégica em fóruns do Telegram. Com monitoramento contínuo e respostas automáticas, este bot ajuda a amplificar mensagens, centralizar conteúdo e promover visibilidade em discussões.
 
